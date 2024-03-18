@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Atualmente estou trabalhando em um Serious Game para a Oracle Academy<br>👯 Ansioso para ajudar o mundo com tecnologia<br>🌱 Cursando Sistemas de Informação no Instituto de tecnologia e liderança
+🔭 Atualmente estou trabalhando em um Serious Game para a Oracle Academy<br>👯 Almejo ajudar o mundo com tecnologia<br>🌱 Cursando Sistemas de Informação no Instituto de tecnologia e liderança
 
 ## 🌐 Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ian-pereira-simao/) 
