@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Atualmente estou trabalhando em um Marketplace para a Parceiros Voluntários<br>👯 Almejo ajudar o mundo com tecnologia<br>🌱 Cursando Sistemas de Informação no Instituto de tecnologia e liderança
+👯 Construir um mundo mais seguro com tecnologia<br>🌱 Cursando Sistemas de Informação no Instituto de tecnologia e liderança
 
 ## 🌐 Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ian-pereira-simao/) 
