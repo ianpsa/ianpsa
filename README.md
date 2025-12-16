@@ -14,7 +14,6 @@
 
 **Estudante de Engenharia da Computação** no Instituto de Tecnologia e Liderança (Inteli)  
 **Pesquisador FAPESP** em Ciência de Dados e Cibersegurança  
-**Estudando agora** Cibsersegurança
 
 ---
 
